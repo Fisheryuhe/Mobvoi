@@ -1,0 +1,26 @@
+{"version_name":"4.1.0.3","mac_addr":"null","appkey":"com.mobvoi.baiding","height_pixels":"1280","deviceid":"bf0fe6d077b4dff96b97e750d9e555c1","version":"12103","old_device_id":"","@timestamp":"2016-08-22T
+00:00:00+0800","sys_version":"4.4.2","address":"中国,湖北省,恩施土家族苗族自治州,鹤峰县,中坝路,,29.889069222876092,110.03840791315969","net_state":"WIFI","tel_device_id":"null","user_id":"bf0fe6d077b4dff96
+b97e750d9e555c1","width_pixels":"720","sys_model":"CHE-TL00","channel":"baidu"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"5.1.1","address":",陕西,西安,雁塔,,,34.20181481961375,108.97613234047586","net_state":"","user_id":"4e792dcce0d81c30511f01dd8e
+e2d039","type":"watch","sys_model":"Redmi Note 3","channel":"main","version":"42082","deviceid":"4e792dcce0d81c30511f01dd8ee2d039"}
+{"version_name":"com.mobvoi.ticwear-2.0.4","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"9.3.3","address":"中国,江苏省,南京市,玄武区,花园路,1-27号,32.082264,118.833377","net_state":"","user_id":"2
+9901035","type":"watch","sys_model":"iPhone7,2","totallines":"2","channel":"ios","version":"791","deviceid":"4DB48203-265A-42E2-96C7-8B29B7207A94"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"5.0.2","address":"","net_state":"","user_id":"5d6b032f7378ae8edd89e1c2c90128f4","type":"watch","sys_model":"vivo X6Plus A","ch
+annel":"main","version":"42082","deviceid":"5d6b032f7378ae8edd89e1c2c90128f4"}
+{"version_name":"com.mobvoi.ticwear-2.0.4","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"9.3.4","address":"中国,新疆维吾尔自治区,喀什地区,喀什市,,,39.460513,75.991906","net_state":"","user_id":"29
+891692","type":"watch","sys_model":"iPhone8,1","totallines":"1","channel":"ios","version":"791","deviceid":"D2DF7278-1B1D-4CFA-A3AF-49C3B00F8D61"}
+{"version_name":"tic_4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"4.4.3","address":",,上海,杨浦,,,31.2895069783774,121.53664087135627","net_state":"","user_id":"d822a7177e9353c68911ed45bff
+3a986","type":"watch","sys_model":"YD206","channel":"main","version":"42080","deviceid":"d822a7177e9353c68911ed45bff3a986"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"5.1","address":",山东,潍坊,奎文,,,36.730683017585186,119.18909625864791","net_state":"","user_id":"eef5be9022d630ffaa791606a84
+bc0ca","type":"watch","sys_model":"m3 note","channel":"main","version":"42082","deviceid":"eef5be9022d630ffaa791606a84bc0ca"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"4.4.2","address":",江苏,泰州,泰兴,,,32.22820082205803,120.20836532493955","net_state":"","user_id":"ae531af93c1fecb64cf68579b3
+e51019","type":"watch","sys_model":"vivo X3V","channel":"main","version":"42082","deviceid":"ae531af93c1fecb64cf68579b3e51019"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"6.0","address":",广东,珠海,香洲,,,22.253296779122806,113.57695012930317","net_state":"","user_id":"bbb6138d742171db9d2e3637460
+36d8e","type":"watch","sys_model":"PRO 6","channel":"main","version":"42082","deviceid":"bbb6138d742171db9d2e363746036d8e"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"5.0","address":",河南,驻马店,汝南,,,33.004509549667446,114.36262799183308","net_state":"","user_id":"8cda79d63a83b76758a03af12
+8092544","type":"watch","sys_model":"SM-G9008W","channel":"main","version":"42082","deviceid":"8cda79d63a83b76758a03af128092544"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"5.1.1","address":",新疆,阿克苏,,,,41.17750976351806,80.28192637591545","net_state":"","user_id":"77e932151993c2958600682192a79
+4cd","type":"watch","sys_model":"vivo Xplay5A","channel":"main","version":"42082","deviceid":"77e932151993c2958600682192a794cd"}
+{"version_name":"4.2.0","@timestamp":"2016-08-22T00:00:00+0800","sys_version":"6.0.1","address":",安徽,六安,霍邱,,,32.344516280631595,116.00690918971773","net_state":"","user_id":"500280fe5d184944d667da039
+21b1267","type":"watch","sys_model":"SM-C5000","channel":"main","version":"42082","deviceid":"500280fe5d184944d667da03921b1267"}
+
