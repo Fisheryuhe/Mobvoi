@@ -1,0 +1,30 @@
+# Copyright 2015 Mobvoi Inc. All Rights Reserved.
+# Author: jianwang@mobvoi.com (Jian Wang)
+
+package(default_visibility = ["//visibility:public"]),
+
+cc_library(name = 'types',
+    textual_hdrs = ['types.h'],
+)
+
+
+cc_library(
+    name = 'word2vec_wrapper',
+    srcs = [
+        'word2vec_wrapper.cc',
+    ],
+    hdrs = glob(['*.h']),
+    deps = [
+        '//base:base',
+    ]
+)
+
+cc_binary(
+    name = 'word2vec_wrapper_main',
+    srcs = [
+    	'word2vec_wrapper_main.cc',
+    ],
+    deps = [
+        ':word2vec_wrapper',
+    ],
+)
