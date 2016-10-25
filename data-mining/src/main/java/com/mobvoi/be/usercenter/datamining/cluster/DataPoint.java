@@ -1,4 +1,4 @@
-//Copyright 2014 Mobvoi Inc. All Rights Reserved
+//Copyright 2016 Mobvoi Inc. All Rights Reserved
 //Author chhyu@mobvoi.com(Changhe Yu)
 
 package com.mobvoi.be.usercenter.datamining.cluster;

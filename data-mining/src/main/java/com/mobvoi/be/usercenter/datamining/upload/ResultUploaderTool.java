@@ -89,17 +89,7 @@ public class ResultUploaderTool {
         LOG.info("upload " + name + " success. item size = " + items.size() + ", elapse = "
             + (System.currentTimeMillis() - startEntry) + " ms.");
         
-        Map<String, String> params = new TreeMap<String, String>();
-        params.put("name", name);
-        params.put("source", "UserCenter-DataMining");
-        params.put("dataStatus", result.status);
-        params.put("content", result.toString());
-        NetResponse response = HttpCaller.get(UPDATE_URL, params);
-        if (response.getNetCode() != NetCode.OK ||
-            response.getNetValueObject() == null ||
-            !OneboxStatus.SUCCESS.equals(response.getNetValueObject().getString("status"))) {
-          LOG.warn("Update data-dashboard failed");
-        }
+
       }
       LOG.info("upload data success. total elapse = " + (System.currentTimeMillis() - start) + " ms.");
       return true;
