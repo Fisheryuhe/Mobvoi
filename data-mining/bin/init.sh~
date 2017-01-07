@@ -1,4 +1,0 @@
-rm -rf lib
-mvn dependency:copy-dependencies -DoutputDirectory=lib -DincludeScope=compile
-mvn clean
-mvn compile
